@@ -1,0 +1,6 @@
+com\desarrollo\local\controller\ServicioLocal.class
+com\desarrollo\local\services\LocalServices$1.class
+com\desarrollo\local\services\LocalServices.class
+com\desarrollo\local\model\LocalModel.class
+com\desarrollo\local\LocalApplication.class
+com\desarrollo\local\model\Locales.class
